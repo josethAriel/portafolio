@@ -1,0 +1,11 @@
+- name: JAVA
+#  percentage: 70
+  color: danger
+
+- name: Spring Boot
+ # percentage: 80
+  color: success
+
+- name: SQL
+  #percentage: 70
+  color: secondary
